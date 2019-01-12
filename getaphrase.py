@@ -1,4 +1,6 @@
 #Get a phrase for english students
+#Author: Vinicius Silva da Cruz - Lordehenry
+#Git: github.com/lordehenry
 
 
 from tkinter import *
@@ -21,7 +23,6 @@ root.title("Word Picker")
 #set the size.
 root.geometry("800x600")
 
-parent = Frame(root)
 #add a label for displaying the name.
 nameLabel = tkinter.Label(root, text="", font=('Helvetica', 32))
 nameLabel.pack()
@@ -31,7 +32,6 @@ nameLabel.place(relx=0.5, rely=0.5, anchor=CENTER)
 pickButton = tkinter.Button(text="Pick!", command=pickWord)
 pickButton.pack()
 pickButton.place(relx=0.5, rely=0.6, anchor=CENTER)
-parent.pack(expand=1)
 
 #start the GUI
 root.mainloop()

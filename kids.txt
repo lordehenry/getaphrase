@@ -1,6 +1,6 @@
-1; ADDRESS;What’s your address?
+ï»¿1; ADDRESS;Whatâ€™s your address?
 2; AFTERNOON;I usually watch TV in the afternoon;
-3; AIRPLANE;I traveled to São Paulo by airplane;
+3; AIRPLANE;I traveled to S'o Paulo by airplane;
 4; AIRPORT;Salgado Filho is an airport;
 5; APPLE;This is an apple pie;
 6; ARMS;Shake your arms!
@@ -17,55 +17,55 @@
 17; BEDROOM;I sleep in my bedroom;
 18; BEST;Who is your best friend?
 19; BICYCLE;My bicycle is red;
-20; BIG;São Paulo is a big city;
+20; BIG;S'o Paulo is a big city;
 21; BIKE;Can you ride a bike?
 22; BIRD;There is a bird over there! Look!
 23; BIRTHDAY;My birthday is on September 6th;
 24; BLOND;My brother has blond hair;
 25; BLOUSE;This blouse is beautiful!
-26; BLUE;Hannah’s car is blue;
+26; BLUE;Hannah's car is blue;
 27; BOARD;Look at the board!
 28; BODY;Arms and legs are parts of the human body;
-29; BORED;I’m bored! Let’s go out!
+29; BORED;I'm bored! Let's go out!
 30; BOX;What is in this box?
 31; BREAD;I often buy bread rolls at that bakery on the corner;
 32; BREAKFAST;We have breakfast at about 8:00 am;
 33; BRITISH;My uncle is British;
-34; BROTHER;Jonas is Julia’s brother;
+34; BROTHER;Jonas is Julia's brother;
 35; BROWN;My hair is brown;
 36; BRUSH;Remember to brush your teeth!
 37; BUS;I go to school by bus;
 38; BUTTERFLY;That butterfly is orange and yellow;
-39; BYE;I’m going, Mom! Bye!
+39; BYE;I'm going, Mom! Bye!
 40; CABINET;There is a cabinet in the kitchen;
-41; CAFETERIA;Let’s go to the cafeteria after school!
+41; CAFETERIA;Let's go to the cafeteria after school!
 42; CAKE;I love chocolate cake!
 43; CALCULATOR;Can you lend me your calculator?
 44; CANADA;Toronto is a city in Canada;
 45; CANDY;There is a candy shop next to my house;
-46; CAR;I can’t drive a car;
-47; CARROT;I don’t like carrot cake;
+46; CAR;I can't drive a car;
+47; CARROT;I don't like carrot cake;
 48; CARTOON;SpongeBob is my favorite cartoon;
 49; CASTLE;I visited a castle in Scotland on my last vacation;
 50; CAT;I have a gray cat;
 51; CAVE;That cave is full of bats;
 52; CHARACTER;Spider Man is a movie character;
-53; CHICKEN;I’ll eat a chicken sandwich, please;
+53; CHICKEN;I'll eat a chicken sandwich, please;
 54; CHILD;I was a very happy child;
 55; CHOCOLATE;I love chocolate!
-56; CITY;I don’t live in a big city;
+56; CITY;I don't live in a big city;
 57; CLASSMATE;Gregory is my classmate;
 58; CLOCK;My Grandma has a German clock;
 59; CLOUDY;It is cloudy outside;
 60; COACH;My dad is a soccer coach;
-61; COFFEE;Let’s drink some coffee;
+61; COFFEE;Let's drink some coffee;
 62; COMPUTER;I enjoy playing computer games;
 63; CONCERT;I went to that fantastic concert last month;
 64; COOK;Can you cook well?
 65; COUNTRY;Brazil is a country in South America;
 66; COUSIN;Miguel is my favorite cousin;
-67; COW;Look at that cow! It’s black and white;
-68; CUPCAKE;I’ll buy a cupcake to take to school;
+67; COW;Look at that cow! It's black and white;
+68; CUPCAKE;I'll buy a cupcake to take to school;
 69; CURLY;He has curly hair;
 70; CUTE;Your baby is so cute!
 71; DAD;My dad is a tall man;
@@ -77,7 +77,7 @@
 77; DOLL;Barbie is a doll;
 78; DOOR;Close the door, please!
 79; DRAW;I can draw, but not very well;
-80; DRESSER;There is a dresser in my mother’s bedroom;
+80; DRESSER;There is a dresser in my mother's bedroom;
 81; DRINK;Do you drink a lot of water?
 82; DRUGSTORE;We buy medicines at the drugstore;
 83; DRUMS;Can you play the drums?
@@ -98,10 +98,10 @@
 98; FEBRUARY;February is a hot month in our country;
 99; FEET;You have big feet!
 100; FISH;Nemo is a fish;
-101; FOURTEEN;I’m fourteen years old;
+101; FOURTEEN;I'm fourteen years old;
 102; FRIENDLY;I like Sophia because she is very friendly;
 103; FRIENDS;We are close friends;
-104; FUN;Let’s have fun!
+104; FUN;Let's have fun!
 105; FURNITURE;I like modern furniture;
 106; GLUE;Can you lend me some glue?
 107; GO;I usually go to the beach in January;
@@ -119,7 +119,7 @@
 119; HEAD;Shake your head!
 120; HEADPHONES;I love wearing my headphones to listen to music;
 121; HELICOPTER;He traveled by helicopter;
-122; HELLO;Hello! I’m your new teacher!
+122; HELLO;Hello! I'm your new teacher!
 123; HOLIDAY;Tomorrow is a national holiday; We have no classes at school!
 124; HOMEWORK;Did you do your homework?
 125; HORSE;Can you ride a horse?
@@ -127,7 +127,7 @@
 127; HOUR;She was here an hour ago;
 128; HOUSE;My family and I live in a big house;
 129; HUNDRED;That jacket is one hundred dollars;
-130; HUNGRY;Let’s eat something! I’m hungry!
+130; HUNGRY;Let's eat something! I'm hungry!
 131; ICE;I really like eating ice cream!
 132; IGUANA;My iguana is light green;
 133; INSTRUMENT;Do you play an instrument?
@@ -138,7 +138,7 @@
 138; JEANS;Bob is wearing jeans to school;
 139; JULY;We have a winter break in July;
 140; KITCHEN;There is a refrigerator in the kitchen;
-141; KITE;Let’s fly a kite!
+141; KITE;Let's fly a kite!
 142; KOREAN;My new classmate is Korean;
 143; LADYBUG;This ladybug is red and black;
 144; LEGS;Spiders have eight legs;
@@ -146,28 +146,28 @@
 146; LIKE;Do you like vegetables?
 147; LISTEN;Listen to the teacher!
 148; MAD;Are you mad?
-149; MALL;Let’s go shopping at the mall!
+149; MALL;Let's go shopping at the mall!
 150; MARCH;March is a hot month in Brazil;
 151; MATH;Math is my favorite subject at school;
 152; MEET;Nice to meet you!
 153; MIDNIGHT;Cinderella had to go back home at midnight;
-154; MODEL;Gisele Bündchen is a model;
+154; MODEL;Gisele B'ndchen is a model;
 155; MOM;What is your mom like?
 156; MONEY;My grandparents gave me some money for my birthday;
 157; MONKEY;The monkey is imitating the kids!
-158; MOSQUITO;I’m full of mosquito bites!
-159; MOTORCYCLE;I can’t ride a motorcycle;
+158; MOSQUITO;I'm full of mosquito bites!
+159; MOTORCYCLE;I can't ride a motorcycle;
 160; MOUTH;Open your mouth wide, please!
 161; MUSEUM;Louvre is a very famous museum;
 162; MUSIC;I love listening to music;
 163; NEIGHBOR;Brenda is my neighbor; We live in the same building;
 164; NEW;My laptop is new;
-165; NEWSSTAND;I’ll buy some magazines at the newsstand;
+165; NEWSSTAND;I'll buy some magazines at the newsstand;
 166; NICKNAME;What is your nickname?
 167; NOISY;Rio is a noisy city;
 168; OCEAN;Pacific is an ocean;
 169; OCTOPUS;The octopus is a sea animal;
-170; ONIONS;I don’t like onions;
+170; ONIONS;I don't like onions;
 171; ORANGE;Do you like orange juice?
 172; OSTRICH;An ostrich can run fast;
 173; PANDA;The panda is playing with a ball;
@@ -176,9 +176,9 @@
 176; PENCIL;You need a pencil to complete your exercises;
 177; PENCILCASE;I have a pencil case in my backpack;
 178; PEOPLE;How many people are there in your house?
-179; PEPPERS;I don’t like peppers;
+179; PEPPERS;I don't like peppers;
 180; PIANO;My sister can play the piano;
-181; PICNIC;Let’s have a picnic in the park!
+181; PICNIC;Let's have a picnic in the park!
 182; PILOT;That man is a pilot;
 183; PLATE;Excuse me, where can I find a plate?
 184; PLAY;I usually play golf with my friends;
@@ -186,14 +186,14 @@
 186; POUNDS;This board game costs twenty pounds;
 187; PRETTY;Mary is a pretty girl;
 188; PRINTER;Do you have a printer in your office?
-189; PUPPET;Let’s play with that puppet!
+189; PUPPET;Let's play with that puppet!
 190; PURPLE;Is this blouse purple or pink?
 191; PUZZLE;My mom gave me a new puzzle yesterday;
 192; QUEEN;Queen Elizabeth has four kids;
 193; RABBIT;My pet rabbit has red eyes;
 194; RAINY;The weather is cold and rainy;
 195; READ;Read the instructions first;
-196; RIDE;I can’t ride a bike;
+196; RIDE;I can't ride a bike;
 197; ROBOT;Wow! A robot! Thanks a lot!
 198; ROCK;I love rock music;
 199; ROPE;Can you jump rope?
@@ -201,15 +201,15 @@
 201; RUN;Can you run fast?
 202; RUSSIA;Russia is the biggest country in the world;
 203; SANDWICH;I brought a chicken sandwich today;
-204; SAUSAGES;Let’s buy some sausages to make hot dogs;
-205; SCARED;I’m scared of this movie;
-206; SCHOOL;Let’s go to school! We are late!
+204; SAUSAGES;Let's buy some sausages to make hot dogs;
+205; SCARED;I'm scared of this movie;
+206; SCHOOL;Let's go to school! We are late!
 207; SCIENCE;Mr; Johnson is my Science teacher;
 208; SCIENTIST;She is a very talented scientist;
 209; SCOOTER;I want a scooter for Christmas;
-210; SEPTEMBER;I’m going to travel to Australia in September;
+210; SEPTEMBER;I'm going to travel to Australia in September;
 211; SHOES;How much are those shoes?
-212; SHOUT;Please, don’t shout!
+212; SHOUT;Please, don't shout!
 213; SHOWER;What time do you usually take a shower?
 214; SINGER;My favorite singer is Ariana Grande;
 215; SISTER;I have a beautiful sister;
@@ -225,44 +225,44 @@
 225; SOCCER;Neymar is a famous soccer player;
 226; SOCKS;My socks are wet!
 227; SON;My son is a polite boy;
-228; SORRY;Sorry, but I don’t remember your name;
+228; SORRY;Sorry, but I don't remember your name;
 229; SOUP;What is in the soup, Mom?
 230; SPAIN;Barcelona is a city in Spain;
-231; SPANISH;I can’t speak Spanish;
+231; SPANISH;I can't speak Spanish;
 232; SPEAK;Can your speak more slowly, please?
 233; SPIDER;There is a spider on the bed;
-234; STADIUM;Let’s go to the stadium this afternoon;
-235; STATION;I’m going to meet Anna at the train station;
+234; STADIUM;Let's go to the stadium this afternoon;
+235; STATION;I'm going to meet Anna at the train station;
 236; STATUE;There is a statue in the middle of the Square;
-237; STEAK;I’ll have a steak and some fries, please!
+237; STEAK;I'll have a steak and some fries, please!
 238; STOP;Stop the car, please!
-239; STRAWBERRY;I’m drinking a strawberry smoothie;
-240; STREET;What’s the name of this street?
+239; STRAWBERRY;I'm drinking a strawberry smoothie;
+240; STREET;What's the name of this street?
 241; STRONG;Are you strong or weak?
 242; STUDENT;Are you a new student at this school?
 243; STUDY;I need to study more!
 244; SUBWAY;Is your mother waiting for the subway to go home?
 245; SUMMER;He spent the summer in Paris;
-246; SUNNY;It’s sunny outside! Let’s go to the beach!
-247; SWEATER;Put your sweater on! It’s cold!
+246; SUNNY;It's sunny outside! Let's go to the beach!
+247; SWEATER;Put your sweater on! It's cold!
 248; SWEET;Sugar is sweet;
 249; SWIM;I can swim, but not very well;
 250; TABLE;My cell phone is on the table;
-251; TALK;Let’s talk about the best present you’ve ever gotten;
+251; TALK;Let's talk about the best present you've ever gotten;
 252; TEACHER;My English teacher is from the USA;
 253; TEENAGER;Brian is a typical teenager from this country;
 254; TELEVISION;We need to buy a new television;
-255; TENNIS;I don’t like playing tennis;
-256; THIRSTY;I’m thirsty; I want something to drink;
+255; TENNIS;I don't like playing tennis;
+256; THIRSTY;I'm thirsty; I want something to drink;
 257; THIRTY;Are there thirty students in this class?
 258; THOUSAND;I still have a thousand things to do;
 259; TIE;My dad is wearing a black tie;
 260; TIGER;The tiger is hungry!
 261; TIME;What time do you go to school?
-262; TIRED;I’m tired! I want to sleep;
+262; TIRED;I'm tired! I want to sleep;
 263; TODAY;What day is today?
 264; TOES;Touch your toes!
-265; TOMATO;Let’s make a tomato sauce;
+265; TOMATO;Let's make a tomato sauce;
 266; TOMORROW;See you tomorrow;
 267; TRAIN;Is the train late?
 268; TREE;I can climb a tree;
@@ -270,15 +270,15 @@
 270; TURKEY;Our new neighbors are from Turkey;
 271; TURTLE;I have a turtle named Dora;
 272; TWENTY;My sister is twenty years old;
-273; UMBRELLA;Don’t forget your umbrella;
+273; UMBRELLA;Don't forget your umbrella;
 274; UNCLE;I got an email from Uncle Richard;
 275; UNDER;The ball is under the bed;
 276; UNIVERSITY;My mother works at the university; She is a professor there;
-277; VACATION;I’m going to spend my summer vacation with my cousins;
+277; VACATION;I'm going to spend my summer vacation with my cousins;
 278; VET;She is a great vet!
 279; VIOLIN;Can your dad play the violin?
 280; WALL;There is a poster on the wall;
-281; WATCH;Let’s watch a movie on TV!
+281; WATCH;Let's watch a movie on TV!
 282; WATER;Can I have a glass of water, please?
 283; WATERMELON;I love watermelon juice!
 284; WHEN;When is your birthday?
@@ -286,11 +286,11 @@
 286; WHITE;Zebras are white and black;
 287; WHY;Why are you so happy?
 288; WINDOW;Open the window, please!
-289; WINDY;It’s windy outside!
+289; WINDY;It's windy outside!
 290; WINTER;We usually go skiing in winter;
 291; WOMAN;My aunt is a lovely woman!
-292; WORRIED;I’m worried about my Math exam;
+292; WORRIED;I'm worried about my Math exam;
 293; WRESTLER;He is a strong wrestler;
 294; WRITE;Write your name, please!
-295; YEAR;What’s your favorite season of the year?
+295; YEAR;What's your favorite season of the year?
 296; YELLOW;My

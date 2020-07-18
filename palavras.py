@@ -25,7 +25,7 @@ root = tkinter.Tk()
 #set the title.
 root.title("Word Picker")
 #set the size.
-root.geometry("1200x600")
+root.geometry("420x420")
 
 #add a label for displaying the name.
 nameLabel = tkinter.Label(root, text="", font=('Helvetica', 32))
